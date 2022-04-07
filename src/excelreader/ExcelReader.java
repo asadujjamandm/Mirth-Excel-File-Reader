@@ -9,7 +9,7 @@ import com.poiji.bind.Poiji;
 
 public class ExcelReader {
 
-    private AppSettings _appSettings;
+    private AppSettings _appSettings = new AppSettings();
     private List<CrossRef> _crossRef;
     public ExcelReader(){
         _appSettings=_appSettings.GetAppConfig();

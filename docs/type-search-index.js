@@ -1,1 +1,1 @@
-typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"excelreader","l":"CrossRef"},{"p":"excelreader","l":"ExcelReader"},{"p":"excelreader","l":"Main"}]
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"excelreader","l":"AppSettings"},{"p":"excelreader","l":"CrossRef"},{"p":"excelreader","l":"ExcelReader"},{"p":"excelreader","l":"Main"}]
